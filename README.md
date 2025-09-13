@@ -61,8 +61,7 @@ part.
 - Finally, note that the `print_all_pos_bytes` function uses a "while true"
 loop structure. This might seem like overkill, given that we want to iterate over
 a fixed number of values. Make a copy of the function, and change 
-it to use a simple `for` loop. Change the "unsigned int i" to "unsigned char i".
-What happens? And why?
+it to use a simple `for` loop. What happens? And why?
 
 ### (Optional) Task 2: Revise the function to print other sized unsigned integers
 
